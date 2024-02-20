@@ -1,2 +1,48 @@
 
 /* Your CSS Code here. */
+.holder{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	}
+.item{
+	margin-righr: 10px;
+	width: 100px;
+	height:100px;
+	font-size: 40px
+}
+#eg1{
+	background-color: green;
+	width: 100px;
+	height:100px;
+	}
+#eg2{
+	background-color: green;
+	width: 100px;
+	height:100px;
+	}
+#eg3{
+	background-color: green;
+	width: 100px;
+	height:100px;
+	}
+#eg4{
+	background-color: green;
+	width: 100px;
+	height:100px;
+	}
+#eg5{
+	background-color: green;
+	width: 100px;
+	height:100px;
+	}
+#eg6{
+	background-color: red;
+	width: 100px;
+	height:100px;
+	}
+#eg7{
+	background-color: blue;
+	width: 100px;
+	height:100px;
+	}
